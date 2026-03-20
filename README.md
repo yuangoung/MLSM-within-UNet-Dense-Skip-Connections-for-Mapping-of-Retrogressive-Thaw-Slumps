@@ -1,8 +1,4 @@
 # MLSM-within-UNet-Dense-Skip-Connections-for-Mapping-of-Retrogressive-Thaw-Slumps
-MLSM is designed as a lightweight plug-and-play aggregation block that can be embedded into the dense skip pathways of a UNet++ backbone to improve non-local feature modeling, structural consistency, and boundary delineation in RTS segmentation.
-
-
-# MLSM for RTS Mapping
 
 This repository provides the complete executable implementation of the **MLSM (Multi-Level Self-Modulation)** plug-and-play module proposed in our ISPRS 2026 Congress paper:
 
